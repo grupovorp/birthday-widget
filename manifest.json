@@ -1,9 +1,10 @@
 {
   "widget": {
-    "name": "widget.name",
+  "name": "Vorp AI",
     "description": "widget.description",
     "short_description": "widget.short_description",
     "version": "1.0.1",
+    
     "interface_version": 2,
     "init_once": false,
     "locale": ["en", "pt", "es"],

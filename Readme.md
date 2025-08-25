@@ -1,13 +1,13 @@
 <p align="center"><img width="552" alt="new kommo" src="images/github images/kommo_logo.png"></p>
 
-# Kommo Birthday Widget
+# Vorp AI
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ## Description
 
-This widget is designed to enhance data management within your account. It includes features for creating tasks, configuring custom fields and templates, automating tasks based on birthdays, send birthday wishes to contacts in the lead profile.
+Vorp AI is designed to enhance data management within your account. It includes features for creating tasks, configuring custom fields and templates, automating tasks based on birthdays, and sending birthday wishes to contacts in the lead profile.
 
 ## Features
 
@@ -19,21 +19,22 @@ This widget is designed to enhance data management within your account. It inclu
 
 ## Installation
 
-1. **Upload the Widget**: Upload the widget files to the Kommo platform as a private integration.
-2. **Install the Widget**: Once uploaded, install the widget through Kommo’s integration's settings page.
+1. **Upload Vorp AI**: Upload the plugin files to the Kommo platform as a private integration.
+2. **Install Vorp AI**: Once uploaded, install the plugin through Kommo’s integration's settings page.
 
 ## Usage
 
 ### Interface
 
-The widget is available in the following locations:
+
+Vorp AI is available in the following locations:
 
 - **Widget Settings**: Access settings and create new fields and templates.
 - **Lead Profile**: The widget can be embedded in the entity profile for task and field management.
 
 ### Creating and Managing Tasks
 
-1. Open the widget settings and select the tasks section.
+1. Open the Vorp AI settings and select the tasks section.
  
    <img width="600" alt="add task" src="images/github images/task.png">
 
@@ -50,7 +51,7 @@ The widget is available in the following locations:
 
 ### Message Templates
 
-1. Go to the templates section in widget settings and create a new template.
+1. Go to the templates section in Vorp AI settings and create a new template.
    <br>
    <img width="600" alt="create template" src="images/github images/create_template.png">
 
@@ -69,7 +70,7 @@ The widget is available in the following locations:
 
 ### Notes
 
-- **Caching**: The widget uses caching to speed up requests and reduce server load.
+- **Caching**: Vorp AI uses caching to speed up requests and reduce server load.
 
 
 ## Additional Resources
